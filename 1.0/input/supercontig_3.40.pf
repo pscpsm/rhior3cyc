@@ -1,0 +1,78 @@
+ID	Rhior3_8285
+NAME	Rhior3_8285
+STARTBASE	869
+ENDBASE	243
+PRODUCT-TYPE	P
+FUNCTION	ORF
+//
+ID	Rhior3_8286
+NAME	FOG: Transposon-encoded proteins with TYA, reverse transcriptase, integrase domains in various combinations
+STARTBASE	2174
+ENDBASE	999
+PRODUCT-TYPE	P
+DBLINK	KOG:KOG0017
+DBLINK	GO:0003676
+DBLINK	GO:0003677
+DBLINK	GO:0015074
+FUNCTION	FOG: Transposon-encoded proteins with TYA, reverse transcriptase, integrase domains in various combinations
+//
+ID	Rhior3_8287
+NAME	FOG: Transposon-encoded proteins with TYA, reverse transcriptase, integrase domains in various combinations
+STARTBASE	5160
+ENDBASE	3064
+PRODUCT-TYPE	P
+DBLINK	KOG:KOG0017
+DBLINK	GO:0003723
+DBLINK	GO:0003964
+DBLINK	GO:0004190
+DBLINK	GO:0006278
+DBLINK	GO:0006508
+FUNCTION	FOG: Transposon-encoded proteins with TYA, reverse transcriptase, integrase domains in various combinations
+//
+ID	Rhior3_8288
+NAME	RNA-binding protein (contains RRM and Pumilio-like repeats)
+STARTBASE	6880
+ENDBASE	5726
+PRODUCT-TYPE	P
+DBLINK	KOG:KOG4574
+INTRON	5799-5837
+FUNCTION	RNA-binding protein (contains RRM and Pumilio-like repeats)
+//
+ID	Rhior3_8289
+NAME	Rhior3_8289
+STARTBASE	8885
+ENDBASE	7995
+PRODUCT-TYPE	P
+FUNCTION	ORF
+//
+ID	Rhior3_8290
+NAME	FOG: Transposon-encoded proteins with TYA, reverse transcriptase, integrase domains in various combinations
+STARTBASE	10089
+ENDBASE	9031
+PRODUCT-TYPE	P
+DBLINK	KOG:KOG0017
+DBLINK	GO:0003676
+DBLINK	GO:0003677
+DBLINK	GO:0015074
+FUNCTION	FOG: Transposon-encoded proteins with TYA, reverse transcriptase, integrase domains in various combinations
+//
+ID	Rhior3_8291
+NAME	FOG: Transposon-encoded proteins with TYA, reverse transcriptase, integrase domains in various combinations
+STARTBASE	12675
+ENDBASE	10633
+PRODUCT-TYPE	P
+DBLINK	KOG:KOG0017
+DBLINK	GO:0003723
+DBLINK	GO:0003964
+DBLINK	GO:0006278
+INTRON	11442-11579
+FUNCTION	FOG: Transposon-encoded proteins with TYA, reverse transcriptase, integrase domains in various combinations
+//
+ID	Rhior3_8292
+NAME	Serine/threonine protein kinase
+STARTBASE	14574
+ENDBASE	14074
+PRODUCT-TYPE	P
+DBLINK	KOG:KOG1187
+FUNCTION	Serine/threonine protein kinase
+//

@@ -1,0 +1,10 @@
+ID	Rhior3_8284
+NAME	aspartic-type endopeptidase activity
+STARTBASE	4634
+ENDBASE	7081
+PRODUCT-TYPE	P
+DBLINK	GO:0004190
+DBLINK	GO:0006508
+FUNCTION	aspartic-type endopeptidase activity
+FUNCTION	proteolysis
+//

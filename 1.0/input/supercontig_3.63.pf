@@ -1,0 +1,40 @@
+ID	Rhior3_14
+NAME	FOG: Transposon-encoded proteins with TYA, reverse transcriptase, integrase domains in various combinations
+STARTBASE	1061
+ENDBASE	5111
+PRODUCT-TYPE	P
+DBLINK	KOG:KOG0017
+DBLINK	GO:0003676
+DBLINK	GO:0003677
+DBLINK	GO:0003723
+DBLINK	GO:0003964
+DBLINK	GO:0006278
+DBLINK	GO:0015074
+INTRON	1884-2042
+INTRON	4998-5082
+FUNCTION	FOG: Transposon-encoded proteins with TYA, reverse transcriptase, integrase domains in various combinations
+//
+ID	Rhior3_15
+NAME	DNA binding
+STARTBASE	6145
+ENDBASE	5489
+PRODUCT-TYPE	P
+DBLINK	GO:0003677
+DBLINK	GO:0004803
+DBLINK	GO:0005634
+DBLINK	GO:0006313
+DBLINK	GO:0015074
+FUNCTION	DNA binding
+FUNCTION	DNA integration
+FUNCTION	nucleus
+FUNCTION	transposase activity
+FUNCTION	transposition, DNA-mediated
+//
+ID	Rhior3_16
+NAME	calcium ion binding
+STARTBASE	7001
+ENDBASE	7381
+PRODUCT-TYPE	P
+DBLINK	GO:0005509
+FUNCTION	calcium ion binding
+//

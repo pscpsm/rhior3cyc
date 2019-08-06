@@ -1,0 +1,45 @@
+ID	Rhior3_12918
+NAME	DNA binding
+STARTBASE	1478
+ENDBASE	447
+PRODUCT-TYPE	P
+DBLINK	GO:0003677
+DBLINK	GO:0004803
+DBLINK	GO:0005634
+DBLINK	GO:0006313
+DBLINK	GO:0015074
+FUNCTION	DNA binding
+FUNCTION	DNA integration
+FUNCTION	nucleus
+FUNCTION	transposase activity
+FUNCTION	transposition, DNA-mediated
+//
+ID	Rhior3_12919
+NAME	FOG: Transposon-encoded proteins with TYA, reverse transcriptase, integrase domains in various combinations
+STARTBASE	5249
+ENDBASE	3189
+PRODUCT-TYPE	P
+DBLINK	KOG:KOG0017
+DBLINK	GO:0000785
+DBLINK	GO:0003676
+DBLINK	GO:0003677
+DBLINK	GO:0003682
+DBLINK	GO:0005634
+DBLINK	GO:0006333
+DBLINK	GO:0015074
+INTRON	4988-5074
+FUNCTION	FOG: Transposon-encoded proteins with TYA, reverse transcriptase, integrase domains in various combinations
+//
+ID	Rhior3_12920
+NAME	FOG: Transposon-encoded proteins with TYA, reverse transcriptase, integrase domains in various combinations
+STARTBASE	10304
+ENDBASE	6711
+PRODUCT-TYPE	P
+DBLINK	KOG:KOG0017
+DBLINK	GO:0003723
+DBLINK	GO:0003964
+DBLINK	GO:0004190
+DBLINK	GO:0006278
+DBLINK	GO:0006508
+FUNCTION	FOG: Transposon-encoded proteins with TYA, reverse transcriptase, integrase domains in various combinations
+//

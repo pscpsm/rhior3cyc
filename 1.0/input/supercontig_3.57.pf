@@ -1,0 +1,38 @@
+ID	Rhior3_12921
+NAME	FOG: Transposon-encoded proteins with TYA, reverse transcriptase, integrase domains in various combinations
+STARTBASE	12
+ENDBASE	2666
+PRODUCT-TYPE	P
+DBLINK	KOG:KOG0017
+DBLINK	GO:0000785
+DBLINK	GO:0003676
+DBLINK	GO:0003677
+DBLINK	GO:0003682
+DBLINK	GO:0003723
+DBLINK	GO:0003964
+DBLINK	GO:0005634
+DBLINK	GO:0006278
+DBLINK	GO:0006333
+DBLINK	GO:0015074
+FUNCTION	FOG: Transposon-encoded proteins with TYA, reverse transcriptase, integrase domains in various combinations
+//
+ID	Rhior3_12922
+NAME	Rhior3_12922
+STARTBASE	4323
+ENDBASE	4765
+PRODUCT-TYPE	P
+INTRON	4333-4391
+FUNCTION	ORF
+//
+ID	Rhior3_12923
+NAME	T-type voltage-gated Ca2+ channel, pore-forming alpha1I subunit
+STARTBASE	7151
+ENDBASE	5229
+PRODUCT-TYPE	P
+DBLINK	KOG:KOG2302
+INTRON	5316-5477
+INTRON	5636-5811
+INTRON	6364-6527
+INTRON	6962-7098
+FUNCTION	T-type voltage-gated Ca2+ channel, pore-forming alpha1I subunit
+//

@@ -1,0 +1,65 @@
+ID	Rhior3_5709
+NAME	FOG: Transposon-encoded proteins with TYA, reverse transcriptase, integrase domains in various combinations
+STARTBASE	2350
+ENDBASE	2966
+PRODUCT-TYPE	P
+DBLINK	KOG:KOG0017
+INTRON	2662-2912
+FUNCTION	FOG: Transposon-encoded proteins with TYA, reverse transcriptase, integrase domains in various combinations
+//
+ID	Rhior3_5710
+NAME	Rhior3_5710
+STARTBASE	3800
+ENDBASE	4591
+PRODUCT-TYPE	P
+FUNCTION	ORF
+//
+ID	Rhior3_5711
+NAME	Hydrolyzing N-glycosyl compounds.
+STARTBASE	5167
+ENDBASE	6387
+PRODUCT-TYPE	P
+DBLINK	KOG:KOG4574
+DBLINK	GO:0000701
+DBLINK	GO:0004844
+DBLINK	GO:0017065
+DBLINK	GO:0019104
+DBLINK	GO:0043733
+FUNCTION	Hydrolyzing N-glycosyl compounds.
+EC	3.2.2.-
+//
+ID	Rhior3_5712
+NAME	DNA binding
+STARTBASE	12052
+ENDBASE	12651
+PRODUCT-TYPE	P
+DBLINK	GO:0003677
+DBLINK	GO:0004803
+DBLINK	GO:0005634
+DBLINK	GO:0006313
+DBLINK	GO:0015074
+FUNCTION	DNA binding
+FUNCTION	DNA integration
+FUNCTION	nucleus
+FUNCTION	transposase activity
+FUNCTION	transposition, DNA-mediated
+//
+ID	Rhior3_5713
+NAME	FOG: Transposon-encoded proteins with TYA, reverse transcriptase, integrase domains in various combinations
+STARTBASE	13234
+ENDBASE	14945
+PRODUCT-TYPE	P
+DBLINK	KOG:KOG0017
+DBLINK	GO:0003723
+DBLINK	GO:0003964
+DBLINK	GO:0006278
+INTRON	13242-13348
+FUNCTION	FOG: Transposon-encoded proteins with TYA, reverse transcriptase, integrase domains in various combinations
+//
+ID	Rhior3_5714
+NAME	Rhior3_5714
+STARTBASE	16739
+ENDBASE	17227
+PRODUCT-TYPE	P
+FUNCTION	ORF
+//

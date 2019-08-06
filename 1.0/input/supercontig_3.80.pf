@@ -1,0 +1,17 @@
+ID	Rhior3_14852
+NAME	Rhior3_14852
+STARTBASE	52
+ENDBASE	450
+PRODUCT-TYPE	P
+FUNCTION	ORF
+//
+ID	Rhior3_14853
+NAME	3',5'-cyclic-nucleotide phosphodiesterase activity
+STARTBASE	5505
+ENDBASE	5095
+PRODUCT-TYPE	P
+DBLINK	GO:0004114
+DBLINK	GO:0007165
+FUNCTION	3',5'-cyclic-nucleotide phosphodiesterase activity
+FUNCTION	signal transduction
+//

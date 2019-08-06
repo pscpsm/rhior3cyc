@@ -1,0 +1,44 @@
+ID	Rhior3_9702
+NAME	Rhior3_9702
+STARTBASE	404
+ENDBASE	1099
+PRODUCT-TYPE	P
+INTRON	498-549
+INTRON	760-980
+FUNCTION	ORF
+//
+ID	Rhior3_9703
+NAME	FOG: Transposon-encoded proteins with TYA, reverse transcriptase, integrase domains in various combinations
+STARTBASE	1857
+ENDBASE	3377
+PRODUCT-TYPE	P
+DBLINK	KOG:KOG0017
+DBLINK	GO:0001671
+DBLINK	GO:0005737
+DBLINK	GO:0030189
+DBLINK	GO:0051087
+INTRON	2127-2246
+FUNCTION	FOG: Transposon-encoded proteins with TYA, reverse transcriptase, integrase domains in various combinations
+//
+ID	Rhior3_9704
+NAME	FOG: Transposon-encoded proteins with TYA, reverse transcriptase, integrase domains in various combinations
+STARTBASE	5864
+ENDBASE	3957
+PRODUCT-TYPE	P
+DBLINK	KOG:KOG0017
+DBLINK	GO:0000785
+DBLINK	GO:0003676
+DBLINK	GO:0003677
+DBLINK	GO:0003682
+DBLINK	GO:0005634
+DBLINK	GO:0006333
+DBLINK	GO:0015074
+FUNCTION	FOG: Transposon-encoded proteins with TYA, reverse transcriptase, integrase domains in various combinations
+//
+ID	Rhior3_9705
+NAME	Rhior3_9705
+STARTBASE	6168
+ENDBASE	6587
+PRODUCT-TYPE	P
+FUNCTION	ORF
+//
